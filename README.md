@@ -1,4 +1,5 @@
-# linux_tools_i_use
+# Linux tools I(Harisankar P S) use
+
 List of linux tools I use/recommend to improve your work flow.
 
 * git gui - spell check my git commits

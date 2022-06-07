@@ -9,3 +9,5 @@ List of linux tools I use/recommend to improve your work flow.
 * zsh
 * oh-my-zsh - lot of useful plugins for short commands
 * oh-my-posh - for better looking terminal design
+* VS Code - code editor
+* DBever - Database management

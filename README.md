@@ -11,3 +11,4 @@ List of linux tools I use/recommend to improve your work flow.
 * oh-my-posh - for better looking terminal design
 * VS Code - code editor
 * DBeaver - Database management
+* cheat - a better/quick substiute for man pages.

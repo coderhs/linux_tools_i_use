@@ -12,3 +12,4 @@ List of linux tools I use/recommend to improve your work flow.
 * VS Code - code editor
 * DBeaver - Database management
 * cheat - a better/quick substiute for man pages.
+* Filelight - to see which files and folders are taking all the space

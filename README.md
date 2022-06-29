@@ -13,3 +13,4 @@ List of linux tools I use/recommend to improve your work flow.
 * DBeaver - Database management
 * cheat - a better/quick substiute for man pages.
 * Filelight - to see which files and folders are taking all the space
+* ULauncher - quick app launcher like macOS.

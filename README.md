@@ -14,3 +14,5 @@ List of linux tools I use/recommend to improve your work flow.
 * cheat - a better/quick substiute for man pages.
 * Filelight - to see which files and folders are taking all the space
 * ULauncher - quick app launcher like macOS.
+* htop - Much better visualized top
+* nethogs - see which applications are sending network traffic outside

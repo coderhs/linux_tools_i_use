@@ -17,3 +17,4 @@ List of linux tools I use/recommend to improve your work flow.
 * htop - Much better visualized top
 * nethogs - see which applications are sending network traffic outside
 * xdotool - simulate keyboard and mouse, allows to build script to automate your workflow
+* hoppscotch - https://hoppscotch.io/ - REST api client/playround

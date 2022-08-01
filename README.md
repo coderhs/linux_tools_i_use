@@ -16,3 +16,4 @@ List of linux tools I use/recommend to improve your work flow.
 * ULauncher - quick app launcher like macOS.
 * htop - Much better visualized top
 * nethogs - see which applications are sending network traffic outside
+* xdotool - simulate keyboard and mouse, allows to build script to automate your workflow

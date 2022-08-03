@@ -2,6 +2,7 @@
 
 List of linux tools I use/recommend to improve your work flow.
 
+* KDE - Desktop Enviornment
 * git gui - spell check my git commits
 * flameshot - annotate and take screenshots of an area.
 * kazam - screen recoridng tool, with ability to take video recording of a smaller area.
@@ -15,7 +16,7 @@ List of linux tools I use/recommend to improve your work flow.
 * DBeaver - Database management
 * cheat - a better/quick substiute for man pages.
 * Filelight - to see which files and folders are taking all the space
-* ULauncher - quick app launcher like macOS.
+* KRunner
 * htop - Much better visualized top
 * nethogs - see which applications are sending network traffic outside
 * xdotool - simulate keyboard and mouse, allows to build script to automate your workflow

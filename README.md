@@ -23,3 +23,4 @@ List of linux tools I use/recommend to improve your work flow.
 * hoppscotch - https://hoppscotch.io/ - REST api client/playround
 * splatmoji  - Emoji keyboard in linux https://github.com/cspeterson/splatmoji (requires: rofi xdtool xsel)
 * Joplin - Note keeping
+* Tailscale - to easily build a local network between my computers and mobile devices

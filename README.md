@@ -6,9 +6,11 @@ List of linux tools I use/recommend to improve your work flow.
 * flameshot - annotate and take screenshots of an area.
 * kazam - screen recoridng tool, with ability to take video recording of a smaller area.
 * terminator - a better terminal with multi pane support
+  * Google search plgun: https://github.com/msudgh/terminator-search 
 * zsh
 * oh-my-zsh - lot of useful plugins for short commands
 * oh-my-posh - for better looking terminal design
+  * Commandline theme: https://github.com/coderhs/coderhs.omp.json
 * VS Code - code editor
 * DBeaver - Database management
 * cheat - a better/quick substiute for man pages.

@@ -1,6 +1,6 @@
 # Linux tools I(Harisankar P S) use
 
-List of linux tools I use/recommend to improve your work flow.
+List of linux tools I use/recommend to improve my work flow.
 
 * KDE - Desktop Enviornment
 * git gui - spell check my git commits

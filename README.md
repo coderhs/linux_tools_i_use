@@ -24,3 +24,5 @@ List of linux tools I use/recommend to improve my work flow.
 * splatmoji  - Emoji keyboard in linux https://github.com/cspeterson/splatmoji (requires: rofi xdtool xsel)
 * Joplin - Note keeping
 * Tailscale - to easily build a local network between my computers and mobile devices
+* Touchegg - For gesture controls in laptops. (Touche` - is the gui tool for it, be careful as i see it overwritting settings when its installed)
+* kio-gdrive - To mount google drive as your local folder

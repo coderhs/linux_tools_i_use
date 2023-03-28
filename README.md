@@ -26,3 +26,5 @@ List of linux tools I use/recommend to improve my work flow.
 * Tailscale - to easily build a local network between my computers and mobile devices
 * Touchegg - For gesture controls in laptops. (Touche` - is the gui tool for it, be careful as i see it overwritting settings when its installed)
 * kio-gdrive - To mount google drive as your local folder
+* fd - fast search files in a folder and its subfolder (https://github.com/sharkdp/fd)
+* Planner 3.0 - todo list
